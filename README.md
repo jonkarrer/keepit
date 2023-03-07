@@ -8,10 +8,10 @@ Learning Rust in a project-oriented manner. This project covers some basic conce
 
 ## TODO
 
-- [] Allow for path to be configured to a user specific markdown location
-- [] Use a custom message for the commit
-- [] Express a better Terminal UI for the user input
-- [] Configure git permissions
+- [ ] Allow for path to be configured to a user specific markdown location
+- [ ] Use a custom message for the commit
+- [ ] Express a better Terminal UI for the user input
+- [ ] Configure git permissions
 
 ## Completed Features
 
