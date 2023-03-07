@@ -10,7 +10,7 @@ fn main() {
     let tag = &args[2];
 
     // Prepare the link for markdown format
-    let formatted_link = format!("[{}]({})\n", tag, link);
+    let formatted_link = format!("- [{}]({})\n", tag, link);
 
     // Open file and prep it for writing, appending, and creation if not existant.
     let mut file = OpenOptions::new()
@@ -33,7 +33,7 @@ fn main() {
     Command::new("git")
         .arg("commit")
         .arg("-m")
-        .arg("new link")
+        .arg("added new link")
         .status()
         .expect("Failed to commit");
     
