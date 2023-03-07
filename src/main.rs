@@ -17,7 +17,7 @@ fn main() {
         .write(true)
         .append(true)
         .create(true)
-        .open("/Users/jkarrer/dev/projects/personal/rust/keepit/README.md")
+        .open("/Users/jkarrer/dev/projects/personal/rust/keepit/LINKS.md")
         .expect("Failed to open file");
 
     // Write the cli arguments to the file

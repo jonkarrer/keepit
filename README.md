@@ -2,10 +2,20 @@
 
 Simple CLI tool for keeping links.
 
-## Links
+## Why?
 
-- [Rust Book](https://doc.rust-lang.org/book/)
-- [Vim Cheatsheet](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet)
-- [Text Wrapping CSS](https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking/)
-- [Git Emojis](https://gitmoji.dev/)
-- [Terminal UI Crate](https://crates.io/crates/tui/0.19.0)
+Learning Rust in a project-oriented manner. This project covers some basic concepts of Rust, and I use this tool daily.
+
+## TODO
+
+- [] Allow for path to be configured to a user specific markdown location
+- [] Use a custom message for the commit
+- [] Express a better Terminal UI for the user input
+- [] Configure git permissions
+
+## Completed Features
+
+- [x] Read CLI arguments
+- [x] Format arguments for markdown write
+- [x] Open markdown file to write to, append bytes, create if non existant.
+- [x] Push to git when link is added
