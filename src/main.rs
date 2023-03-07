@@ -6,7 +6,8 @@
 // - Take an argument of some type of organization or group
 
 use std::env;
-use std::fs;
+use std::fs::OpenOptions;
+use std::io::Write;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
@@ -14,7 +15,16 @@ fn main() {
     let tag = &args[2];
     dbg!(link, tag);
 
-    let formatted_link = format!("[{}]({})", tag, link);
-    fs::write("../README.md", formatted_link).expect("Failed to write to file");
+    let formatted_link = format!("[{}]({})\n", tag, link);
+
+    let mut file = OpenOptions::new()
+        .write(true)
+        .append(true)
+        .create(true)
+        .open("../README.md")
+        .expect("Failed to open file");
+
+
+    file.write_all(formatted_link.as_bytes()).expect("Failed to write to file");
 }
 
