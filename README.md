@@ -1,6 +1,6 @@
 # Keepit
 
-Simple CLI tool for keeping my links written in Rust.
+Simple CLI tool for keeping links.
 
 ## Links
 
