@@ -10,7 +10,7 @@ fn main() {
     let tag = &args[2];
 
     // Prepare the link for markdown format
-    let formatted_link = format!("- [{}]({})\n", tag, link);
+    let readme_formatted_link = format!("- [{}]({})\n", tag, link);
 
     // Open file and prep it for writing, appending, and creation if not existant.
     let mut file = OpenOptions::new()
@@ -21,7 +21,7 @@ fn main() {
         .expect("Failed to open file");
 
     // Write the cli arguments to the file
-    file.write_all(formatted_link.as_bytes()).expect("Failed to write to file");
+    file.write_all(readme_formatted_link.as_bytes()).expect("Failed to write to file");
 
     // Run git commands to commit to a repo.
     Command::new("git")
