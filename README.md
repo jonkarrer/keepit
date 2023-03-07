@@ -12,6 +12,7 @@ Learning Rust in a project-oriented manner. This project covers some basic conce
 - [ ] Use a custom message for the commit
 - [ ] Express a better Terminal UI for the user input
 - [ ] Configure git permissions
+- [ ] Give a response message
 
 ## Completed Features
 
