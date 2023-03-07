@@ -21,7 +21,7 @@ fn main() {
         .write(true)
         .append(true)
         .create(true)
-        .open("../README.md")
+        .open("/Users/jkarrer/dev/projects/personal/rust/keepit/README.md")
         .expect("Failed to open file");
 
 
