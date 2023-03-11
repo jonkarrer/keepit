@@ -6,3 +6,4 @@
 - [Git Emojis](https://gitmoji.dev/)
 - [Terminal UI Crate](https://crates.io/crates/tui/0.19.0)
 - [Tour of Rust](https://tourofrust.com/index.html)
+- [Rust Email Server](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
