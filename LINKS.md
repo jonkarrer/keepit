@@ -9,3 +9,4 @@
 - [Rust Email Server](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html)
 - [VIM For IDE](https://betterprogramming.pub/50-vim-mode-tips-for-ide-users-f7b525a794b3)
 - [VIM Quickref](https://vimhelp.org/quickref.txt.html)
+- [Complete VIM Command Guide](https://vimhelp.org/index.txt.html#index.txt)
