@@ -39,6 +39,9 @@ fn main() {
     
     Command::new("git")
         .arg("push")
+        .arg("-u")
+        .arg("origin")
+        .arg("main")
         .status()
         .expect("Failed to push");
 }
