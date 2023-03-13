@@ -3,6 +3,7 @@ use std::fs::OpenOptions;
 use std::io::Write;
 use std::process::Command;
 
+// Test ubuntu push
 fn main() {
     // Capture args from the cli input and collect them into a vector
     let args: Vec<String> = env::args().collect();
