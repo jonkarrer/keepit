@@ -18,7 +18,7 @@ fn main() {
         .write(true)
         .append(true)
         .create(true)
-        .open("/home/jokar/dev/rust/keepit/LINKS.md")
+        .open("$HOME/devjon/rust/keepit/LINKS.md")
         .expect("Failed to open file");
 
     // Write the cli arguments to the file
