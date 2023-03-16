@@ -1,7 +1,6 @@
 use std::env;
 use std::fs::OpenOptions;
 use std::io::Write;
-use std::process::Command;
 
 // Test ubuntu push
 fn main() {
