@@ -16,3 +16,5 @@
 - [Option, Result, Unwrap, Expect, Rust](https://jakedawkins.com/2020-04-16-unwrap-expect-rust/)
 - [JS Changes 2020-2023](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)
 - [AI for UI Generation](https://www.usegalileo.ai/)
+- [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps#mobile-development)
+- [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps#mobile-development)
