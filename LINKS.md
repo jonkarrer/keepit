@@ -13,3 +13,5 @@
 - [Cool Cli Apps](https://stackify.com/top-command-line-tools/)
 - [Custom ZSH Theme Guide](https://blog.carbonfive.com/writing-zsh-themes-a-quickref/)
 - [Custom ZSH Theme Guide](https://blog.carbonfive.com/writing-zsh-themes-a-quickref/)
+- [Option, Result, Unwrap, Expect, Rust](https://jakedawkins.com/2020-04-16-unwrap-expect-rust/)
+- [JS Changes 2020-2023](https://betterprogramming.pub/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42)

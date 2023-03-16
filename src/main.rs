@@ -11,7 +11,6 @@ fn main() {
     let tag = &args[2];
     let home_path = env::var("HOME").expect("$HOME Not Found");
     let file_path = format!("{}/devjon/projects/rust/keepit/LINKS.md", home_path);
-    dbg!(&file_path);
     // Prepare the link for markdown format
     let readme_formatted_link = format!("- [{}]({})\n", tag, link);
 
