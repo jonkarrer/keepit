@@ -17,4 +17,4 @@
 - [AI for UI Generation](https://www.usegalileo.ai/)
 - [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps#mobile-development)
 - [Rust How To Start](https://github.com/jondot/rust-how-do-i-start)
-- [CLI Rust Book Repo](https://github.com/rust-cli/book)
+- [Command Line Rust](https://github.com/kyclark/command-line-rust)
