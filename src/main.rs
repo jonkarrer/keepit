@@ -9,7 +9,9 @@ fn main() {
     let args: Vec<String> = env::args().collect();
     let link = &args[1];
     let tag = &args[2];
-
+    let home_path = env::var("HOME").expect("$HOME Not Found");
+    let file_path = format!("{}/devjon/projects/rust/keepit/LINKS.md", home_path);
+    dbg!(&file_path);
     // Prepare the link for markdown format
     let readme_formatted_link = format!("- [{}]({})\n", tag, link);
 
@@ -18,7 +20,7 @@ fn main() {
         .write(true)
         .append(true)
         .create(true)
-        .open("/Users/jkarrer/devjon/projects/rust/keepit/LINKS.md")
+        .open(file_path)
         .expect("Failed to open file");
 
     // Write the cli arguments to the file

@@ -12,3 +12,4 @@
 - [Complete VIM Command Guide](https://vimhelp.org/index.txt.html#index.txt)
 - [Cool Cli Apps](https://stackify.com/top-command-line-tools/)
 - [Custom ZSH Theme Guide](https://blog.carbonfive.com/writing-zsh-themes-a-quickref/)
+- [Custom ZSH Theme Guide](https://blog.carbonfive.com/writing-zsh-themes-a-quickref/)
