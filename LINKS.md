@@ -24,3 +24,4 @@
 - [Maidsafe Company for Decentralied Networks](https://maidsafe.net/)
 - [Markdown to Books and HTML](https://github.com/rust-lang/mdBook)
 - [WASM for Rust](https://github.com/wasmerio/wasmer)
+- [Another GPU Terminal](https://github.com/wasmerio/wasmer)
