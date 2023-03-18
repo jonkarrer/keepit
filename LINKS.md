@@ -21,3 +21,4 @@
 - [Rust Remote Desktop](https://github.com/rustdesk/rustdesk)
 - [Cool Terminal Emulator](https://github.com/alacritty/alacritty)
 - [File Viewer in Terminal](https://github.com/Canop/broot)
+- [Maidsafe Company for Decentralied Networks](https://maidsafe.net/)
