@@ -26,3 +26,4 @@
 - [WASM for Rust](https://github.com/wasmerio/wasmer)
 - [Another GPU Terminal](https://github.com/wasmerio/wasmer)
 - [Another Cool Terminal Multiplexer](https://github.com/zellij-org/zellij)
+- [Spotify in the Terminal](https://github.com/Rigellute/spotify-tui)
