@@ -18,3 +18,4 @@
 - [Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps#mobile-development)
 - [Rust How To Start](https://github.com/jondot/rust-how-do-i-start)
 - [Command Line Rust](https://github.com/kyclark/command-line-rust)
+- [Rust Remote Desktop](https://github.com/rustdesk/rustdesk)
