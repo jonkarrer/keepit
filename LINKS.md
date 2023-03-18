@@ -19,3 +19,5 @@
 - [Rust How To Start](https://github.com/jondot/rust-how-do-i-start)
 - [Command Line Rust](https://github.com/kyclark/command-line-rust)
 - [Rust Remote Desktop](https://github.com/rustdesk/rustdesk)
+- [Cool Terminal Emulator](https://github.com/alacritty/alacritty)
+- [File Viewer in Terminal](https://github.com/Canop/broot)
