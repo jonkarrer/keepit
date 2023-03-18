@@ -22,3 +22,4 @@
 - [Cool Terminal Emulator](https://github.com/alacritty/alacritty)
 - [File Viewer in Terminal](https://github.com/Canop/broot)
 - [Maidsafe Company for Decentralied Networks](https://maidsafe.net/)
+- [Markdown to Books and HTML](https://github.com/rust-lang/mdBook)
