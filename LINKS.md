@@ -28,3 +28,4 @@
 - [Another Cool Terminal Multiplexer](https://github.com/zellij-org/zellij)
 - [Spotify in the Terminal](https://github.com/Rigellute/spotify-tui)
 - [Game Engine for Rust](https://github.com/PistonDevelopers/piston)
+- [Request Crate](https://lib.rs/crates/minreq)
