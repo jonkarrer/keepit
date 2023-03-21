@@ -29,3 +29,4 @@
 - [Spotify in the Terminal](https://github.com/Rigellute/spotify-tui)
 - [Game Engine for Rust](https://github.com/PistonDevelopers/piston)
 - [Request Crate](https://lib.rs/crates/minreq)
+- [Cool HTTP Tester Hurl](https://hurl.dev/)
