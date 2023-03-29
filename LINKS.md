@@ -30,3 +30,5 @@
 - [Game Engine for Rust](https://github.com/PistonDevelopers/piston)
 - [Request Crate](https://lib.rs/crates/minreq)
 - [Cool HTTP Tester Hurl](https://hurl.dev/)
+- [Kitty Shortcuts](https://linuxiac.com/kitty-terminal-emulator/)
+- [Kitty Terminal Emulator](https://sw.kovidgoyal.net/kitty/)
