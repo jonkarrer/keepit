@@ -32,3 +32,4 @@
 - [Cool HTTP Tester Hurl](https://hurl.dev/)
 - [Kitty Shortcuts](https://linuxiac.com/kitty-terminal-emulator/)
 - [Kitty Terminal Emulator](https://sw.kovidgoyal.net/kitty/)
+- [ASCII Char Chart](https://design215.com/toolbox/ascii.php)
