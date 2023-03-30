@@ -33,3 +33,4 @@
 - [Kitty Shortcuts](https://linuxiac.com/kitty-terminal-emulator/)
 - [Kitty Terminal Emulator](https://sw.kovidgoyal.net/kitty/)
 - [ASCII Char Chart](https://design215.com/toolbox/ascii.php)
+- [Web Dev Projects](https://dev.to/aschmelyun/5-practical-web-dev-projects-that-arent-todo-lists-3n79)
