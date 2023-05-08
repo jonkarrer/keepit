@@ -20,3 +20,4 @@
 - [Command Line Rust](https://github.com/kyclark/command-line-rust)
 - [Rust Web Server](https://github.com/tokio-rs/axum)
 - [Speech to SQL Helper](https://www.sqltranslate.app/)
+- [Visualized Software Principles](https://daedtech.com/visualization-mnemonics-for-software-principles/)
